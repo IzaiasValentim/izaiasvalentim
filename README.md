@@ -23,5 +23,5 @@
 
 ##
 
-<p align = "center">😉 - Tenho prazer de compartilhar com todos o meu progresso na área, fiquem ligados!</p>
+<p align = "center">😉 - Tenho prazer em compartilhar com todos o meu progresso na área, fiquem ligados!</p>
 
