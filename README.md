@@ -6,12 +6,11 @@
 
 <hr>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Izaias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Node-Js" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
-  <img align="center" alt="Izaias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Izaias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<div style="display: inline_block">
+  <img align="center" alt="Izaias-Java" height="35" width="45" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
+  <img align="center" alt="Izaias-Spring" height="35" width="40" src="https://github.com/IzaiasValentim/izaiasvalentim/assets/118863023/37db0444-9195-4fdf-b9a8-f37c8e81b50c">
+  <img align="center" alt="Izaias-Python" height="40" width="40" src="https://github.com/IzaiasValentim/izaiasvalentim/assets/118863023/f286db35-2712-4cc3-9866-5cde8cae1d7d">
+  <img align="center" alt="Izaias-Django" height="50" width="50" src="https://github.com/IzaiasValentim/izaiasvalentim/assets/118863023/5fd4cb26-93e2-4fc3-9dba-52b61e11d07f">
   <img align="right" alt="Izaias-mood" height="150" style="border-radius:100px;" src="https://steamuserimages-a.akamaihd.net/ugc/1666854210994878421/85F69FE58A1FE06EF870A7D2BBBDBB3D99316BEF/">
 </div>
 
