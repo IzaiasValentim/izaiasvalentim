@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,django,mongo,postgres" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,django,mongo,postgres&theme=light" />
   </a>
 </p>
 
